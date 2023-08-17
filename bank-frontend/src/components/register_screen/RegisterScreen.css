@@ -1,0 +1,68 @@
+.form-group .required-field-label:after {
+    content:"*";
+    color:red;
+}
+
+.required-text {
+  color: red;
+  font-size: 11px;
+  padding-bottom: 13px;
+}
+
+h1{
+    text-align: center;
+  }
+  
+  .block {
+      width: 70%;
+      margin: auto;
+      margin-bottom: 20px;
+      border: 1px solid black;
+      padding: 20px;
+      background-color: white;
+      border-radius: 5px;
+    }
+  
+    .block1 {
+      background-color: rgb(223, 223, 223);
+      border-radius: 5px;
+    }
+
+    .button {
+      margin: 0;
+      position: absolute;
+      top: 50%;
+      -ms-transform: translateY(-50%);
+      transform: translateY(-50%);
+    }
+  
+   
+  
+    .block1{
+      width: 75%;
+      margin:auto;
+      border: 1px solid black;
+      padding:10px;
+    }
+
+    .row {
+      border-top: inherit !important;
+      background-image: inherit !important;
+    }
+
+    .form-check2 {
+      margin-left: 15%;
+    }
+
+    input:invalid {
+      border: 1px solid #db2269;
+    }
+    
+    .invalid {
+      color:#db2269;
+      font-size: 0.625em;
+      display: relative;
+      
+    }
+
+    

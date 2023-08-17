@@ -1,0 +1,21 @@
+.main {
+    background-color: blueviolet;
+}
+
+.title {
+    color: rgb(187, 155, 216);
+    background-color: blueviolet;
+}
+
+.help-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+    width: 50%;
+    margin-left: 26%;
+}
+
+img {
+    width:95%;
+}

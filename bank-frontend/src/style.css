@@ -1,0 +1,43 @@
+.app-container {
+  position: relative;
+  min-height: 100vh;
+  font-family: 'Titillium Web', sans-serif;
+  /* background-color: rgb(222, 220, 220); */
+  background-image: linear-gradient(rgb(222, 221, 220), rgb(89, 36, 111))
+}
+
+.content-wrap {
+  padding-bottom: 2.5rem; 
+}
+
+h1{
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+  padding-bottom: 25px;
+}
+
+.block {
+    width: 70%;
+    margin: auto;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    padding: 20px;
+  }
+
+  .button {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+
+ 
+
+  .block1{
+    width: 75%;
+    margin:auto;
+    border: 1px solid black;
+    padding:10px;
+  }
+

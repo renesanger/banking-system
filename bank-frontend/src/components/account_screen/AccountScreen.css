@@ -1,0 +1,19 @@
+.logout{
+    padding: 5px 0 0 5px; 
+    height: 140px; 
+    width: 150px;
+    position: fixed;
+    right:0px;
+    top:20px;
+}
+
+
+.header, .header > button
+{
+    font-size:16pt;
+    background-color: rgba(0,0,0,.03);
+}
+
+/* .pagination > li a {
+  min-width: 10em !important;
+} */

@@ -1,0 +1,15 @@
+.navbar-nav {
+    padding-top:15px; 
+    padding-bottom:15px;
+}
+.navbar {
+    min-height:32px;
+}
+
+.navbar-custom {
+    background-color: #4433cc;
+}
+
+.navbar-custom .navbar-nav .nav-link {
+    color: #ffbb00;
+}

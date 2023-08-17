@@ -1,0 +1,187 @@
+[
+    {
+        "Id": "kennliang33",
+        "password": "testpass",
+        "firstName": "kenny",
+        "lastName": "liang",
+        "email": "testemail@capgemini.com",
+        "dateOfBirth": "1990-01-12T00:00:00",
+        "phoneNumber": "111-111-111",
+        "socialSecurityNumber": "000-00-0000",
+        "address": "test",
+        "city": "randomcity",
+        "state": "ny",
+        "zipcode": "00000",
+        "account": {
+            "id": "111111111",
+            "routing": "021000021",
+            "type": "checking"
+        },
+        "employment": {
+            "company": "Capgemini",
+            "phone": "222-222-2222",
+            "title": "software engineer"
+        },
+        "firstContact": {
+            "name": "testContact1",
+            "phone": "555-555-5555",
+            "relationship": "test"
+        },
+        "secondContact": {
+            "name": "testContact2",
+            "phone": "555-555-5555",
+            "relationship": "test"
+        },
+        "transactions": [{
+            "tid": 1,
+            "amount": 1000,
+            "date": "2021-12-25T00:00:00",
+            "description":"Deposit"},
+        {
+            "tid": 2,
+            "amount": 1000,
+            "date": "2021-12-25T00:00:00",
+            "description":"Deposit"},
+        {
+            "tid": 3,
+            "amount": 1000,
+            "date": "2021-12-25T00:00:00",
+            "description":"Deposit"},
+        {
+            "tid": 4,
+            "amount": 1000,
+            "date": "2021-12-25T00:00:00",
+            "description":"Deposit"},
+        {
+            "tid": 5,
+            "amount": 1000,
+            "date": "2021-12-25T00:00:00",
+            "description":"Deposit"}
+        ]
+    },
+    {
+        "Id": "johnuser",
+        "password": "testpass",
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "testemail@capgemini.com",
+        "dateOfBirth": "1998-01-12T00:00:00",
+        "phoneNumber": "111-111-111",
+        "socialSecurityNumber": "000-00-0000",
+        "address": "6 main street",
+        "city": "queens",
+        "state": "New York",
+        "zipcode": "11444",
+        "account": {
+            "type": "checking",
+            "id": "111111112",
+            "routing": "021000021",
+            "balance": 324534.22
+        },
+        "employment": {
+            "company": "Capgemini",
+            "phone": "222-222-2222",
+            "title": "software engineer"
+        },
+        "firstContact": {
+            "name": "Mary Doe",
+            "phone": "555-555-5555",
+            "relationship": "Mother"
+        },
+        "secondContact": {
+            "name": "Bob Doe",
+            "phone": "333-333-3333",
+            "relationship": "Father"
+        },
+        "transactions": [{
+            "tid": 1,
+            "amount": 1000,
+            "date": "2021-12-20T00:00:00",
+            "description":"Capgemini Bank Deposit"},
+        {
+            "tid": 2,
+            "amount": 500,
+            "date": "2021-12-21T00:00:00",
+            "description":"Payment to Chase Card Ending in 3457"},
+        {
+            "tid": 3,
+            "amount": 1000,
+            "date": "2021-12-22T00:00:00",
+            "description":"Payment to Kenny Liang"},
+        {
+            "tid": 4,
+            "amount": 1000,
+            "date": "2021-12-25T00:00:00",
+            "description":"Deposit"},
+        {
+            "tid": 5,
+            "amount": 1000,
+            "date": "2021-12-28T00:00:00",
+            "description":"Deposit"}
+        ]
+    }
+    ,
+    {
+        "Id": "renesanger",
+        "password": "rene123",
+        "firstName": "Rene",
+        "lastName": "Sanger",
+        "middleName":"J",
+        "email": "rene@capgemini.com",
+        "dateOfBirth": "1998-01-12T00:00:00",
+        "phoneNumber": "917-343-5575",
+        "socialSecurityNumber": "353-054-9973",
+        "address": "84 Park Ave",
+        "city": "New York",
+        "state": "NY",
+        "zipcode": "13733",
+        "account": {
+            "id": "111111113",
+            "routing": "089000089",
+            "type": "Checking",
+            "balance": 3124534.22
+        },
+        "employment": {
+            "company": "Capgemini",
+            "phone": "212-485-7878",
+            "title": "Software Engineer"
+        },
+        "firstContact": {
+            "name": "Mary Sanger",
+            "phone": "646-545-6674",
+            "relationship": "Mother"
+        },
+        "secondContact": {
+            "name": "John Sanger",
+            "phone": "718-180-9892",
+            "relationship": "Father"
+        },
+        "transactions": [{
+            "tid": 1,
+            "amount": 1000,
+            "date": "2021-12-25T00:00:00",
+            "description":"Capgemini Bank Deposit"},
+        {
+            "tid": 2,
+            "amount": 1000,
+            "date": "2021-11-25T00:00:00",
+            "description":"Capgemini Bank Withdrawal"},
+        {
+            "tid": 3,
+            "amount": 1000,
+            "date": "2021-12-25T00:00:00",
+            "description":"Payment to Kenny Liang"},
+        {
+            "tid": 4,
+            "amount": 1000,
+            "date": "2021-10-25T00:00:00",
+            "description":"Payment to Chase Card Ending in 3457"},
+        {
+            "tid": 5,
+            "amount": 1000,
+            "date": "2021-12-25T00:00:00",
+            "description":"CAPGEMINI AMERIC DIRECT DEP PPD"}
+        ]
+    }
+]
+

@@ -1,0 +1,20 @@
+.home-block1 {
+    width: 30%;
+    height: 0%;
+    margin: auto;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    justify-content: center;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 25px;
+    background-color: rgb(235, 235, 235);
+}
+
+.help{
+    justify-content: center;
+    text-align: center;
+}
+
